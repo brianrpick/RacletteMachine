@@ -3,4 +3,11 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 #homeimg {
   max-height: 600px;
+  display: block;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.bowl {
+  max-width: 300px;
 }
